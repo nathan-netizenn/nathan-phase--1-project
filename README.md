@@ -1,3 +1,4 @@
+## Name of the project
 nathan-phase--1-project
 ### Author : Name Date
 Nathan Mageka   7 april 2023
@@ -41,7 +42,7 @@ http://127.0.0.1:5500/index.html
 - Canvas
 - W3schools
 - Code academy
-- 
+- scrimbaS
 *****
 ## Technologies Used
 1. db json
