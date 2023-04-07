@@ -25,6 +25,19 @@ function loadData() {
           const temperament = document.createElement('p');
           temperament.textContent = item.temperament;
           card.appendChild(temperament);
+
+          const likeButton = document.createElement('button');
+          likeButton.textContent = 'Like';
+          likeButton.addEventListener('click', () => {
+            item.likes += 1;
+            updateLikes(item.id, item.likes);
+          });
+          card.appendChild(likeButton);
+  
+          const likeCount = document.createElement('p');
+          likeCount.textContent = `Likes: ${item.likes}`;
+          card.appendChild(likeCount);
+  
           cardContainer.appendChild(card);
         });
       })
