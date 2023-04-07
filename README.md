@@ -13,7 +13,7 @@ A cat website that contain different varieties of cats containing its details li
 ********
 ## SetUp Instruction
 ### Requirement
-
+*Get details from a dbjson Api('http://localhost:3000/Cats')
 * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
 
 
@@ -29,12 +29,13 @@ A cat website that contain different varieties of cats containing its details li
 * Open the folder location on terminal and use the following command to run app:
 
 ## How To Run It
->
+>First git clone my repository.
+Run it in the live server.
 
 
 *****
 ## Live Link
-
+http://127.0.0.1:5500/index.html
 *****
 ## Dependencies
 - Canvas
