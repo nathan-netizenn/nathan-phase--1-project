@@ -1,9 +1,8 @@
-# Name of the Project
 nathan-phase--1-project
 ### Author : Name Date
 Nathan Mageka   7 april 2023
 ## Project Description
-A cat website that contain different varieties of cats containing its details like tempremate and description as dispalyed in the live server.s
+A cat website that contain different varieties of cats containing its details like tempremate and description as dispalyed in the live server.
 ******
 
 ## SCREENSHOTS
