@@ -12,11 +12,9 @@ A cat website that contain different varieties of cats containing its details li
 
 ********
 ## SetUp Instruction
-### Requirements
-* [Lang](lang Url)
-* [Framework](Framework URL)
+### Requirement
+
 * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
-* [Testing Platform](Platform URL)
 
 
 ### Getting Files
@@ -31,20 +29,18 @@ A cat website that contain different varieties of cats containing its details li
 * Open the folder location on terminal and use the following command to run app:
 
 ## How To Run It
->  $ pip install -r requirements.txt
-To install all requirements
+>
 
-> $ python3 manage.py runserver
-Then run server with the above command
+
 *****
 ## Live Link
-Or you can access the web application directly via this [LINK.](link.com/)
+
 *****
 ## Dependencies
-- Package Name
-- Package Name
-- Package Name
-- Package Name
+- Canvas
+- W3schools
+- Code academy
+- 
 *****
 ## Technologies Used
 1. db json
