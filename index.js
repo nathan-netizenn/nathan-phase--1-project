@@ -45,4 +45,17 @@ function loadData() {
         console.error(error);
       });
   }
+  function updateLikes(id, likes) {
+    fetch(`http://localhost:3000/Cats/${id}`, {
+      method: 'PATCH',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ likes })
+    })
+      .then(response => response.json())
+      .catch(error => {
+        console.error(error);
+      });
+  }
   loadData();

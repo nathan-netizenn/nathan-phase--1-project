@@ -1,378 +1,379 @@
 {
-    "Cats": [
-      {
-        "weight": {
-          "imperial": "7  -  10",
-          "metric": "3 - 5"
-        },
-        "id": "abys",
-        "name": "Abyssinian",
-        "temperament": "Active, Energetic, Independent, Intelligent, Gentle",
-        "origin": "Egypt",
-        "country_codes": "EG",
-        "country_code": "EG",
-        "description": "The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.",
-        "life_span": "14 - 15",
-        "image_url": "https://vcahospitals.com/-/media/2/vca/images/pet-health-library/cat-breeds/abysinnian.ashx?h=275&iar=0&w=400&hash=4CCBDB57B95D0FFB6DE058B4C97AE03F"
+  "Cats": [
+    {
+      "weight": {
+        "imperial": "7  -  10",
+        "metric": "3 - 5"
       },
-      {
-        "weight": {
-          "imperial": "7 - 10",
-          "metric": "3 - 5"
-        },
-        "id": "aege",
-        "name": "Aegean",
-        "temperament": "Affectionate, Social, Intelligent, Playful, Active",
-        "origin": "Greece",
-        "country_codes": "GR",
-        "country_code": "GR",
-        "description": "Native to the Greek islands known as the Cyclades in the Aegean Sea, these are natural cats, meaning they developed without humans getting involved in their breeding. As a breed, Aegean Cats are rare, although they are numerous on their home islands. They are generally friendly toward people and can be excellent cats for families with children.",
-        "life_span": "9 - 12",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Aegean_Island_Cat.jpg/220px-Aegean_Island_Cat.jpg"
+      "id": "abys",
+      "name": "Abyssinian",
+      "temperament": "Active, Energetic, Independent, Intelligent, Gentle",
+      "origin": "Egypt",
+      "country_codes": "EG",
+      "country_code": "EG",
+      "description": "The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.",
+      "life_span": "14 - 15",
+      "image_url": "https://vcahospitals.com/-/media/2/vca/images/pet-health-library/cat-breeds/abysinnian.ashx?h=275&iar=0&w=400&hash=4CCBDB57B95D0FFB6DE058B4C97AE03F"
+    },
+    {
+      "weight": {
+        "imperial": "7 - 10",
+        "metric": "3 - 5"
       },
-      {
-        "weight": {
-          "imperial": "7 - 16",
-          "metric": "3 - 7"
-        },
-        "id": "abob",
-        "name": "American Bobtail",
-        "temperament": "Intelligent, Interactive, Lively, Playful, Sensitive",
-        "origin": "United States",
-        "country_codes": "US",
-        "country_code": "US",
-        "description": "American Bobtails are loving and incredibly intelligent cats possessing a distinctive wild appearance. They are extremely interactive cats that bond with their human family with great devotion.",
-        "life_span": "11 - 15",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/American_bobtail_2.jpg/220px-American_bobtail_2.jpg"
+      "id": "aege",
+      "name": "Aegean",
+      "temperament": "Affectionate, Social, Intelligent, Playful, Active",
+      "origin": "Greece",
+      "country_codes": "GR",
+      "country_code": "GR",
+      "description": "Native to the Greek islands known as the Cyclades in the Aegean Sea, these are natural cats, meaning they developed without humans getting involved in their breeding. As a breed, Aegean Cats are rare, although they are numerous on their home islands. They are generally friendly toward people and can be excellent cats for families with children.",
+      "life_span": "9 - 12",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Aegean_Island_Cat.jpg/220px-Aegean_Island_Cat.jpg"
+    },
+    {
+      "weight": {
+        "imperial": "7 - 16",
+        "metric": "3 - 7"
       },
-      {
-        "weight": {
-          "imperial": "5 - 10",
-          "metric": "2 - 5"
-        },
-        "id": "acur",
-        "name": "American Curl",
-        "temperament": "Affectionate, Curious, Intelligent, Interactive, Lively, Playful, Social",
-        "origin": "United States",
-        "country_codes": "US",
-        "country_code": "US",
-        "description": "Distinguished by truly unique ears that curl back in a graceful arc, offering an alert, perky, happily surprised expression, they cause people to break out into a big smile when viewing their first Curl. Curls are very people-oriented, faithful, affectionate soulmates, adjusting remarkably fast to other pets, children, and new situations.",
-        "life_span": "12 - 16",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/ACL_Pointocurl_Fiorentina.jpg/1024px-ACL_Pointocurl_Fiorentina.jpg"
+      "id": "abob",
+      "name": "American Bobtail",
+      "temperament": "Intelligent, Interactive, Lively, Playful, Sensitive",
+      "origin": "United States",
+      "country_codes": "US",
+      "country_code": "US",
+      "description": "American Bobtails are loving and incredibly intelligent cats possessing a distinctive wild appearance. They are extremely interactive cats that bond with their human family with great devotion.",
+      "life_span": "11 - 15",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/American_bobtail_2.jpg/220px-American_bobtail_2.jpg"
+    },
+    {
+      "weight": {
+        "imperial": "5 - 10",
+        "metric": "2 - 5"
       },
-      {
-        "weight": {
-          "imperial": "8 - 15",
-          "metric": "4 - 7"
-        },
-        "id": "asho",
-        "name": "American Shorthair",
-        "temperament": "Active, Curious, Easy Going, Playful, Calm",
-        "origin": "United States",
-        "country_codes": "US",
-        "country_code": "US",
-        "description": "The American Shorthair is known for its longevity, robust health, good looks, sweet personality, and amiability with children, dogs, and other pets.",
-        "life_span": "15 - 17",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/14_years_old_american_shorthair.jpg/220px-14_years_old_american_shorthair.jpg"
+      "id": "acur",
+      "name": "American Curl",
+      "temperament": "Affectionate, Curious, Intelligent, Interactive, Lively, Playful, Social",
+      "origin": "United States",
+      "country_codes": "US",
+      "country_code": "US",
+      "description": "Distinguished by truly unique ears that curl back in a graceful arc, offering an alert, perky, happily surprised expression, they cause people to break out into a big smile when viewing their first Curl. Curls are very people-oriented, faithful, affectionate soulmates, adjusting remarkably fast to other pets, children, and new situations.",
+      "life_span": "12 - 16",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/ACL_Pointocurl_Fiorentina.jpg/1024px-ACL_Pointocurl_Fiorentina.jpg"
+    },
+    {
+      "weight": {
+        "imperial": "8 - 15",
+        "metric": "4 - 7"
       },
-      {
-        "weight": {
-          "imperial": "8 - 15",
-          "metric": "4 - 7"
-        },
-        "id": "awir",
-        "name": "American Wirehair",
-        "temperament": "Affectionate, Curious, Gentle, Intelligent, Interactive, Lively, Loyal, Playful, Sensible, Social",
-        "origin": "United States",
-        "country_codes": "US",
-        "country_code": "US",
-        "description": "The American Wirehair tends to be a calm and tolerant cat who takes life as it comes. His favorite hobby is bird-watching from a sunny windowsill, and his hunting ability will stand you in good stead if insects enter the house.",
-        "life_span": "14 - 18",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/American_Wirehair_-_CFF_cat_show_Heinola_2008-05-04_IMG_8721.JPG/800px-American_Wirehair_-_CFF_cat_show_Heinola_2008-05-04_IMG_8721.JPG"
+      "id": "asho",
+      "name": "American Shorthair",
+      "temperament": "Active, Curious, Easy Going, Playful, Calm",
+      "origin": "United States",
+      "country_codes": "US",
+      "country_code": "US",
+      "description": "The American Shorthair is known for its longevity, robust health, good looks, sweet personality, and amiability with children, dogs, and other pets.",
+      "life_span": "15 - 17",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/14_years_old_american_shorthair.jpg/220px-14_years_old_american_shorthair.jpg",
+      "likes": 3
+    },
+    {
+      "weight": {
+        "imperial": "8 - 15",
+        "metric": "4 - 7"
       },
-      {
-        "weight": {
-          "imperial": "8 - 16",
-          "metric": "4 - 7"
-        },
-        "id": "amau",
-        "name": "Arabian Mau",
-        "temperament": "Affectionate, Agile, Curious, Independent, Playful, Loyal",
-        "origin": "United Arab Emirates",
-        "country_codes": "AE",
-        "country_code": "AE",
-        "description": "Arabian Mau cats are social and energetic. Due to their energy levels, these cats do best in homes where their owners will be able to provide them with plenty of playtime, attention and interaction from their owners. These kitties are friendly, intelligent, and adaptable, and will even get along well with other pets and children.",
-        "life_span": "12 - 14",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Calico_arabian_mau_kitten.webp/220px-Calico_arabian_mau_kitten.webp.png"
+      "id": "awir",
+      "name": "American Wirehair",
+      "temperament": "Affectionate, Curious, Gentle, Intelligent, Interactive, Lively, Loyal, Playful, Sensible, Social",
+      "origin": "United States",
+      "country_codes": "US",
+      "country_code": "US",
+      "description": "The American Wirehair tends to be a calm and tolerant cat who takes life as it comes. His favorite hobby is bird-watching from a sunny windowsill, and his hunting ability will stand you in good stead if insects enter the house.",
+      "life_span": "14 - 18",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/American_Wirehair_-_CFF_cat_show_Heinola_2008-05-04_IMG_8721.JPG/800px-American_Wirehair_-_CFF_cat_show_Heinola_2008-05-04_IMG_8721.JPG"
+    },
+    {
+      "weight": {
+        "imperial": "8 - 16",
+        "metric": "4 - 7"
       },
-      {
-        "weight": {
-          "imperial": "7 - 15",
-          "metric": "3 - 7"
-        },
-        "id": "amis",
-        "name": "Australian Mist",
-        "temperament": "Lively, Social, Fun-loving, Relaxed, Affectionate",
-        "origin": "Australia",
-        "country_codes": "AU",
-        "country_code": "AU",
-        "description": "The Australian Mist thrives on human companionship. Tolerant of even the youngest of children, these friendly felines enjoy playing games and being part of the hustle and bustle of a busy household. They make entertaining companions for people of all ages, and are happy to remain indoors between dusk and dawn or to be wholly indoor pets.",
-        "life_span": "12 - 16",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Australian_Mist.jpg/220px-Australian_Mist.jpg"
+      "id": "amau",
+      "name": "Arabian Mau",
+      "temperament": "Affectionate, Agile, Curious, Independent, Playful, Loyal",
+      "origin": "United Arab Emirates",
+      "country_codes": "AE",
+      "country_code": "AE",
+      "description": "Arabian Mau cats are social and energetic. Due to their energy levels, these cats do best in homes where their owners will be able to provide them with plenty of playtime, attention and interaction from their owners. These kitties are friendly, intelligent, and adaptable, and will even get along well with other pets and children.",
+      "life_span": "12 - 14",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Calico_arabian_mau_kitten.webp/220px-Calico_arabian_mau_kitten.webp.png"
+    },
+    {
+      "weight": {
+        "imperial": "7 - 15",
+        "metric": "3 - 7"
       },
-      {
-        "weight": {
-          "imperial": "4 - 10",
-          "metric": "2 - 5"
-        },
-        "id": "bali",
-        "name": "Balinese",
-        "temperament": "Affectionate, Intelligent, Playful",
-        "origin": "United States",
-        "country_codes": "US",
-        "country_code": "US",
-        "description": "Balinese are curious, outgoing, intelligent cats with excellent communication skills. They are known for their chatty personalities and are always eager to tell you their views on life, love, and what you’ve served them for dinner. ",
-        "life_span": "10 - 15",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Old-Style_Balinese_Cat.png/220px-Old-Style_Balinese_Cat.png"
+      "id": "amis",
+      "name": "Australian Mist",
+      "temperament": "Lively, Social, Fun-loving, Relaxed, Affectionate",
+      "origin": "Australia",
+      "country_codes": "AU",
+      "country_code": "AU",
+      "description": "The Australian Mist thrives on human companionship. Tolerant of even the youngest of children, these friendly felines enjoy playing games and being part of the hustle and bustle of a busy household. They make entertaining companions for people of all ages, and are happy to remain indoors between dusk and dawn or to be wholly indoor pets.",
+      "life_span": "12 - 16",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Australian_Mist.jpg/220px-Australian_Mist.jpg"
+    },
+    {
+      "weight": {
+        "imperial": "4 - 10",
+        "metric": "2 - 5"
       },
-      {
-        "weight": {
-          "imperial": "4 - 9",
-          "metric": "2 - 4"
-        },
-        "id": "bamb",
-        "name": "Bambino",
-        "temperament": "Affectionate, Lively, Friendly, Intelligent",
-        "origin": "United States",
-        "country_codes": "US",
-        "country_code": "US",
-        "description": "The Bambino is a breed of cat that was created as a cross between the Sphynx and the Munchkin breeds. The Bambino cat has short legs, large upright ears, and is usually hairless. They love to be handled and cuddled up on the laps of their family members.",
-        "life_span": "12 - 14",
-        "image_url": "https://www.thesprucepets.com/thmb/F9y0MYWzwg_8y0mcd0XlcOxwUNU=/2121x0/filters:no_upscale():strip_icc()/peterpancakeGettyImages-638917674-ee473ffc1c3d4b65a568f9b4c1a4506b.jpg"
+      "id": "bali",
+      "name": "Balinese",
+      "temperament": "Affectionate, Intelligent, Playful",
+      "origin": "United States",
+      "country_codes": "US",
+      "country_code": "US",
+      "description": "Balinese are curious, outgoing, intelligent cats with excellent communication skills. They are known for their chatty personalities and are always eager to tell you their views on life, love, and what you’ve served them for dinner. ",
+      "life_span": "10 - 15",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Old-Style_Balinese_Cat.png/220px-Old-Style_Balinese_Cat.png"
+    },
+    {
+      "weight": {
+        "imperial": "4 - 9",
+        "metric": "2 - 4"
       },
-      {
-        "weight": {
-          "imperial": "6 - 12",
-          "metric": "3 - 7"
-        },
-        "id": "beng",
-        "name": "Bengal",
-        "temperament": "Alert, Agile, Energetic, Demanding, Intelligent",
-        "origin": "United States",
-        "country_codes": "US",
-        "country_code": "US",
-        "description": "Bengals are a lot of fun to live with, but they're definitely not the cat for everyone, or for first-time cat owners. Extremely intelligent, curious and active, they demand a lot of interaction and woe betide the owner who doesn't provide it.",
-        "life_span": "12 - 15",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Paintedcats_Red_Star_standing.jpg/220px-Paintedcats_Red_Star_standing.jpg"
+      "id": "bamb",
+      "name": "Bambino",
+      "temperament": "Affectionate, Lively, Friendly, Intelligent",
+      "origin": "United States",
+      "country_codes": "US",
+      "country_code": "US",
+      "description": "The Bambino is a breed of cat that was created as a cross between the Sphynx and the Munchkin breeds. The Bambino cat has short legs, large upright ears, and is usually hairless. They love to be handled and cuddled up on the laps of their family members.",
+      "life_span": "12 - 14",
+      "image_url": "https://www.thesprucepets.com/thmb/F9y0MYWzwg_8y0mcd0XlcOxwUNU=/2121x0/filters:no_upscale():strip_icc()/peterpancakeGettyImages-638917674-ee473ffc1c3d4b65a568f9b4c1a4506b.jpg"
+    },
+    {
+      "weight": {
+        "imperial": "6 - 12",
+        "metric": "3 - 7"
       },
-      {
-        "weight": {
-          "imperial": "6 - 15",
-          "metric": "3 - 7"
-        },
-        "id": "birm",
-        "name": "Birman",
-        "temperament": "Affectionate, Active, Gentle, Social",
-        "origin": "France",
-        "country_codes": "FR",
-        "country_code": "FR",
-        "description": "The Birman is a docile, quiet cat who loves people and will follow them from room to room. Expect the Birman to want to be involved in what you’re doing. He communicates in a soft voice, mainly to remind you that perhaps it’s time for dinner or maybe for a nice cuddle on the sofa. He enjoys being held and will relax in your arms like a furry baby.",
-        "life_span": "14 - 15",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Birmanstrofe.jpg/220px-Birmanstrofe.jpg"
+      "id": "beng",
+      "name": "Bengal",
+      "temperament": "Alert, Agile, Energetic, Demanding, Intelligent",
+      "origin": "United States",
+      "country_codes": "US",
+      "country_code": "US",
+      "description": "Bengals are a lot of fun to live with, but they're definitely not the cat for everyone, or for first-time cat owners. Extremely intelligent, curious and active, they demand a lot of interaction and woe betide the owner who doesn't provide it.",
+      "life_span": "12 - 15",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Paintedcats_Red_Star_standing.jpg/220px-Paintedcats_Red_Star_standing.jpg"
+    },
+    {
+      "weight": {
+        "imperial": "6 - 15",
+        "metric": "3 - 7"
       },
-      {
-        "weight": {
-          "imperial": "6 - 11",
-          "metric": "3 - 5"
-        },
-        "id": "bomb",
-        "name": "Bombay",
-        "temperament": "Affectionate, Dependent, Gentle, Intelligent, Playful",
-        "origin": "United States",
-        "country_codes": "US",
-        "country_code": "US",
-        "description": "The the golden eyes and the shiny black coa of the Bopmbay is absolutely striking. Likely to bond most with one family member, the Bombay will follow you from room to room and will almost always have something to say about what you are doing, loving attention and to be carried around, often on his caregiver's shoulder.",
-        "life_span": "12 - 16",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Gata_com%C3%BAn_negra.png/220px-Gata_com%C3%BAn_negra.png"
+      "id": "birm",
+      "name": "Birman",
+      "temperament": "Affectionate, Active, Gentle, Social",
+      "origin": "France",
+      "country_codes": "FR",
+      "country_code": "FR",
+      "description": "The Birman is a docile, quiet cat who loves people and will follow them from room to room. Expect the Birman to want to be involved in what you’re doing. He communicates in a soft voice, mainly to remind you that perhaps it’s time for dinner or maybe for a nice cuddle on the sofa. He enjoys being held and will relax in your arms like a furry baby.",
+      "life_span": "14 - 15",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Birmanstrofe.jpg/220px-Birmanstrofe.jpg"
+    },
+    {
+      "weight": {
+        "imperial": "6 - 11",
+        "metric": "3 - 5"
       },
-      {
-        "weight": {
-          "imperial": "8 - 18",
-          "metric": "4 - 8"
-        },
-        "id": "bslo",
-        "name": "British Longhair",
-        "temperament": "Affectionate, Easy Going, Independent, Intelligent, Loyal, Social",
-        "origin": "United Kingdom",
-        "country_codes": "GB",
-        "country_code": "GB",
-        "description": "The British Longhair is a very laid-back relaxed cat, often perceived to be very independent although they will enjoy the company of an equally relaxed and likeminded cat. They are an affectionate breed, but very much on their own terms and tend to prefer to choose to come and sit with their owners rather than being picked up.",
-        "life_span": "12 - 14",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/British_Longhair_cat_with_blue_and_white_markings_and_amber_eyes.jpg/220px-British_Longhair_cat_with_blue_and_white_markings_and_amber_eyes.jpg"
+      "id": "bomb",
+      "name": "Bombay",
+      "temperament": "Affectionate, Dependent, Gentle, Intelligent, Playful",
+      "origin": "United States",
+      "country_codes": "US",
+      "country_code": "US",
+      "description": "The the golden eyes and the shiny black coa of the Bopmbay is absolutely striking. Likely to bond most with one family member, the Bombay will follow you from room to room and will almost always have something to say about what you are doing, loving attention and to be carried around, often on his caregiver's shoulder.",
+      "life_span": "12 - 16",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Gata_com%C3%BAn_negra.png/220px-Gata_com%C3%BAn_negra.png"
+    },
+    {
+      "weight": {
+        "imperial": "8 - 18",
+        "metric": "4 - 8"
       },
-      {
-        "weight": {
-          "imperial": "12 - 20",
-          "metric": "5 - 9"
-        },
-        "id": "bsho",
-        "name": "British Shorthair",
-        "temperament": "Affectionate, Easy Going, Gentle, Loyal, Patient, calm",
-        "origin": "United Kingdom",
-        "country_codes": "GB",
-        "country_code": "GB",
-        "description": "The British Shorthair is a very pleasant cat to have as a companion, ans is easy going and placid. The British is a fiercely loyal, loving cat and will attach herself to every one of her family members. While loving to play, she doesn't need hourly attention. If she is in the mood to play, she will find someone and bring a toy to that person. The British also plays well by herself, and thus is a good companion for single people.",
-        "life_span": "12 - 17",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/British_blue_2009_%28cropped%29.jpg/220px-British_blue_2009_%28cropped%29.jpg"
+      "id": "bslo",
+      "name": "British Longhair",
+      "temperament": "Affectionate, Easy Going, Independent, Intelligent, Loyal, Social",
+      "origin": "United Kingdom",
+      "country_codes": "GB",
+      "country_code": "GB",
+      "description": "The British Longhair is a very laid-back relaxed cat, often perceived to be very independent although they will enjoy the company of an equally relaxed and likeminded cat. They are an affectionate breed, but very much on their own terms and tend to prefer to choose to come and sit with their owners rather than being picked up.",
+      "life_span": "12 - 14",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/British_Longhair_cat_with_blue_and_white_markings_and_amber_eyes.jpg/220px-British_Longhair_cat_with_blue_and_white_markings_and_amber_eyes.jpg"
+    },
+    {
+      "weight": {
+        "imperial": "12 - 20",
+        "metric": "5 - 9"
       },
-      {
-        "weight": {
-          "imperial": "6 - 12",
-          "metric": "3 - 5"
-        },
-        "id": "bure",
-        "name": "Burmese",
-        "temperament": "Curious, Intelligent, Gentle, Social, Interactive, Playful, Lively",
-        "origin": "Burma",
-        "country_codes": "MM",
-        "country_code": "MM",
-        "description": "Burmese love being with people, playing with them, and keeping them entertained. They crave close physical contact and abhor an empty lap. They will follow their humans from room to room, and sleep in bed with them, preferably under the covers, cuddled as close as possible. At play, they will turn around to see if their human is watching and being entertained by their crazy antics.",
-        "life_span": "15 - 16",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/British_burmese_-_Andel_Alois_at_Cat_show.JPG/220px-British_burmese_-_Andel_Alois_at_Cat_show.JPG"
+      "id": "bsho",
+      "name": "British Shorthair",
+      "temperament": "Affectionate, Easy Going, Gentle, Loyal, Patient, calm",
+      "origin": "United Kingdom",
+      "country_codes": "GB",
+      "country_code": "GB",
+      "description": "The British Shorthair is a very pleasant cat to have as a companion, ans is easy going and placid. The British is a fiercely loyal, loving cat and will attach herself to every one of her family members. While loving to play, she doesn't need hourly attention. If she is in the mood to play, she will find someone and bring a toy to that person. The British also plays well by herself, and thus is a good companion for single people.",
+      "life_span": "12 - 17",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/British_blue_2009_%28cropped%29.jpg/220px-British_blue_2009_%28cropped%29.jpg"
+    },
+    {
+      "weight": {
+        "imperial": "6 - 12",
+        "metric": "3 - 5"
       },
-      {
-        "weight": {
-          "imperial": "6 - 13",
-          "metric": "3 - 6"
-        },
-        "id": "buri",
-        "name": "Burmilla",
-        "temperament": "Easy Going, Friendly, Intelligent, Lively, Playful, Social",
-        "origin": "United Kingdom",
-        "country_codes": "GB",
-        "country_code": "GB",
-        "description": "The Burmilla is a fairly placid cat. She tends to be an easy cat to get along with, requiring minimal care. The Burmilla is affectionate and sweet and makes a good companion, the Burmilla is an ideal companion to while away a lonely evening. Loyal, devoted, and affectionate, this cat will stay by its owner, always keeping them company.",
-        "life_span": "10 - 15",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Male_Burmilla_cat.jpeg/220px-Male_Burmilla_cat.jpeg"
+      "id": "bure",
+      "name": "Burmese",
+      "temperament": "Curious, Intelligent, Gentle, Social, Interactive, Playful, Lively",
+      "origin": "Burma",
+      "country_codes": "MM",
+      "country_code": "MM",
+      "description": "Burmese love being with people, playing with them, and keeping them entertained. They crave close physical contact and abhor an empty lap. They will follow their humans from room to room, and sleep in bed with them, preferably under the covers, cuddled as close as possible. At play, they will turn around to see if their human is watching and being entertained by their crazy antics.",
+      "life_span": "15 - 16",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/British_burmese_-_Andel_Alois_at_Cat_show.JPG/220px-British_burmese_-_Andel_Alois_at_Cat_show.JPG"
+    },
+    {
+      "weight": {
+        "imperial": "6 - 13",
+        "metric": "3 - 6"
       },
-      {
-        "weight": {
-          "imperial": "10 - 15",
-          "metric": "5 - 7"
-        },
-        "id": "cspa",
-        "name": "California Spangled",
-        "temperament": "Affectionate, Curious, Intelligent, Loyal, Social",
-        "origin": "United States",
-        "country_codes": "US",
-        "country_code": "US",
-        "description": "Perhaps the only thing about the California spangled cat that isn’t wild-like is its personality. Known to be affectionate, gentle and sociable, this breed enjoys spending a great deal of time with its owners. They are very playful, often choosing to perch in high locations and show off their acrobatic skills.",
-        "life_span": "10 - 14",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Spangled_Cat.jpg/220px-Star_Spangled_Cat.jpg"
+      "id": "buri",
+      "name": "Burmilla",
+      "temperament": "Easy Going, Friendly, Intelligent, Lively, Playful, Social",
+      "origin": "United Kingdom",
+      "country_codes": "GB",
+      "country_code": "GB",
+      "description": "The Burmilla is a fairly placid cat. She tends to be an easy cat to get along with, requiring minimal care. The Burmilla is affectionate and sweet and makes a good companion, the Burmilla is an ideal companion to while away a lonely evening. Loyal, devoted, and affectionate, this cat will stay by its owner, always keeping them company.",
+      "life_span": "10 - 15",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Male_Burmilla_cat.jpeg/220px-Male_Burmilla_cat.jpeg"
+    },
+    {
+      "weight": {
+        "imperial": "10 - 15",
+        "metric": "5 - 7"
       },
-      {
-        "weight": {
-          "imperial": "7 - 12",
-          "metric": "3 - 5"
-        },
-        "id": "ctif",
-        "name": "Chantilly-Tiffany",
-        "temperament": "Affectionate, Demanding, Interactive, Loyal",
-        "origin": "United States",
-        "country_codes": "US",
-        "country_code": "US",
-        "description": "The Chantilly is a devoted companion and prefers company to being left alone. While the Chantilly is not demanding, she will \"chirp\" and \"talk\" as if having a conversation. This breed is affectionate, with a sweet temperament. It can stay still for extended periods, happily lounging in the lap of its loved one. This quality makes the Tiffany an ideal traveling companion, and an ideal house companion for senior citizens and the physically handicapped.",
-        "life_span": "14 - 16",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Tiffany1.jpg/250px-Tiffany1.jpg"
+      "id": "cspa",
+      "name": "California Spangled",
+      "temperament": "Affectionate, Curious, Intelligent, Loyal, Social",
+      "origin": "United States",
+      "country_codes": "US",
+      "country_code": "US",
+      "description": "Perhaps the only thing about the California spangled cat that isn’t wild-like is its personality. Known to be affectionate, gentle and sociable, this breed enjoys spending a great deal of time with its owners. They are very playful, often choosing to perch in high locations and show off their acrobatic skills.",
+      "life_span": "10 - 14",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Spangled_Cat.jpg/220px-Star_Spangled_Cat.jpg"
+    },
+    {
+      "weight": {
+        "imperial": "7 - 12",
+        "metric": "3 - 5"
       },
-      {
-        "weight": {
-          "imperial": "6 - 15",
-          "metric": "3 - 7"
-        },
-        "id": "char",
-        "name": "Chartreux",
-        "temperament": "Affectionate, Loyal, Intelligent, Social, Lively, Playful",
-        "origin": "France",
-        "country_codes": "FR",
-        "country_code": "FR",
-        "description": "The Chartreux is generally silent but communicative. Short play sessions, mixed with naps and meals are their perfect day. Whilst appreciating any attention you give them, they are not demanding, content instead to follow you around devotedly, sleep on your bed and snuggle with you if you’re not feeling well.",
-        "life_span": "12 - 15",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/IC_Blue_Melody_Flipper_CHA_male_EX1_CACIB.jpg/220px-IC_Blue_Melody_Flipper_CHA_male_EX1_CACIB.jpg"
+      "id": "ctif",
+      "name": "Chantilly-Tiffany",
+      "temperament": "Affectionate, Demanding, Interactive, Loyal",
+      "origin": "United States",
+      "country_codes": "US",
+      "country_code": "US",
+      "description": "The Chantilly is a devoted companion and prefers company to being left alone. While the Chantilly is not demanding, she will \"chirp\" and \"talk\" as if having a conversation. This breed is affectionate, with a sweet temperament. It can stay still for extended periods, happily lounging in the lap of its loved one. This quality makes the Tiffany an ideal traveling companion, and an ideal house companion for senior citizens and the physically handicapped.",
+      "life_span": "14 - 16",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Tiffany1.jpg/250px-Tiffany1.jpg"
+    },
+    {
+      "weight": {
+        "imperial": "6 - 15",
+        "metric": "3 - 7"
       },
-      {
-        "weight": {
-          "imperial": "7 - 15",
-          "metric": "3 - 7"
-        },
-        "id": "chau",
-        "name": "Chausie",
-        "temperament": "Affectionate, Intelligent, Playful, Social",
-        "origin": "Egypt",
-        "country_codes": "EG",
-        "country_code": "EG",
-        "description": "For those owners who desire a feline capable of evoking the great outdoors, the strikingly beautiful Chausie retains a bit of the wild in its appearance but has the house manners of our friendly, familiar moggies. Very playful, this cat needs a large amount of space to be able to fully embrace its hunting instincts.",
-        "life_span": "12 - 14",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ChausieA.jpg/220px-ChausieA.jpg"
+      "id": "char",
+      "name": "Chartreux",
+      "temperament": "Affectionate, Loyal, Intelligent, Social, Lively, Playful",
+      "origin": "France",
+      "country_codes": "FR",
+      "country_code": "FR",
+      "description": "The Chartreux is generally silent but communicative. Short play sessions, mixed with naps and meals are their perfect day. Whilst appreciating any attention you give them, they are not demanding, content instead to follow you around devotedly, sleep on your bed and snuggle with you if you’re not feeling well.",
+      "life_span": "12 - 15",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/IC_Blue_Melody_Flipper_CHA_male_EX1_CACIB.jpg/220px-IC_Blue_Melody_Flipper_CHA_male_EX1_CACIB.jpg"
+    },
+    {
+      "weight": {
+        "imperial": "7 - 15",
+        "metric": "3 - 7"
       },
-      {
-        "weight": {
-          "imperial": "8 - 15",
-          "metric": "4 - 7"
-        },
-        "id": "chee",
-        "name": "Cheetoh",
-        "temperament": "Affectionate, Gentle, Intelligent, Social",
-        "origin": "United States",
-        "country_codes": "US",
-        "country_code": "US",
-        "description": "The Cheetoh has a super affectionate nature and real love for their human companions; they are intelligent with the ability to learn quickly. You can expect that a Cheetoh will be a fun-loving kitty who enjoys playing, running, and jumping through every room in your house.",
-        "life_span": "12 - 14",
-        "image_url": "data:image/jpeg;base64,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"
+      "id": "chau",
+      "name": "Chausie",
+      "temperament": "Affectionate, Intelligent, Playful, Social",
+      "origin": "Egypt",
+      "country_codes": "EG",
+      "country_code": "EG",
+      "description": "For those owners who desire a feline capable of evoking the great outdoors, the strikingly beautiful Chausie retains a bit of the wild in its appearance but has the house manners of our friendly, familiar moggies. Very playful, this cat needs a large amount of space to be able to fully embrace its hunting instincts.",
+      "life_span": "12 - 14",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ChausieA.jpg/220px-ChausieA.jpg"
+    },
+    {
+      "weight": {
+        "imperial": "8 - 15",
+        "metric": "4 - 7"
       },
-      {
-        "weight": {
-          "imperial": "4 - 10",
-          "metric": "2 - 5"
-        },
-        "id": "csho",
-        "name": "Colorpoint Shorthair",
-        "temperament": "Affectionate, Intelligent, Playful, Social",
-        "origin": "United States",
-        "country_codes": "US",
-        "country_code": "US",
-        "description": "Colorpoint Shorthairs are an affectionate breed, devoted and loyal to their people. Sensitive to their owner’s moods, Colorpoints are more than happy to sit at your side or on your lap and purr words of encouragement on a bad day. They will constantly seek out your lap whenever it is open and in the moments when your lap is preoccupied they will stretch out in sunny spots on the ground.",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Colorpoint_Shorthair.jpg/220px-Colorpoint_Shorthair.jpg"
+      "id": "chee",
+      "name": "Cheetoh",
+      "temperament": "Affectionate, Gentle, Intelligent, Social",
+      "origin": "United States",
+      "country_codes": "US",
+      "country_code": "US",
+      "description": "The Cheetoh has a super affectionate nature and real love for their human companions; they are intelligent with the ability to learn quickly. You can expect that a Cheetoh will be a fun-loving kitty who enjoys playing, running, and jumping through every room in your house.",
+      "life_span": "12 - 14",
+      "image_url": "data:image/jpeg;base64,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"
+    },
+    {
+      "weight": {
+        "imperial": "4 - 10",
+        "metric": "2 - 5"
       },
-      {
-        "weight": {
-          "imperial": "5 - 9",
-          "metric": "2 - 4"
-        },
-        "id": "crex",
-        "name": "Cornish Rex",
-        "temperament": "Affectionate, Intelligent, Active, Curious, Playful",
-        "origin": "United Kingdom",
-        "country_codes": "GB",
-        "country_code": "GB",
-        "description": "This is a confident cat who loves people and will follow them around, waiting for any opportunity to sit in a lap or give a kiss. He enjoys being handled, making it easy to take him to the veterinarian or train him for therapy work. The Cornish Rex stay in kitten mode most of their lives and well into their senior years. ",
-        "life_span": "11 - 14",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Rex_staredown.jpg/220px-Rex_staredown.jpg"
+      "id": "csho",
+      "name": "Colorpoint Shorthair",
+      "temperament": "Affectionate, Intelligent, Playful, Social",
+      "origin": "United States",
+      "country_codes": "US",
+      "country_code": "US",
+      "description": "Colorpoint Shorthairs are an affectionate breed, devoted and loyal to their people. Sensitive to their owner’s moods, Colorpoints are more than happy to sit at your side or on your lap and purr words of encouragement on a bad day. They will constantly seek out your lap whenever it is open and in the moments when your lap is preoccupied they will stretch out in sunny spots on the ground.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Colorpoint_Shorthair.jpg/220px-Colorpoint_Shorthair.jpg"
+    },
+    {
+      "weight": {
+        "imperial": "5 - 9",
+        "metric": "2 - 4"
       },
-      {
-        "weight": {
-          "imperial": "8 - 13",
-          "metric": "4 - 6"
-        },
-        "id": "cymr",
-        "name": "Cymric",
-        "temperament": "Gentle, Loyal, Intelligent, Playful",
-        "origin": "Canada",
-        "country_codes": "CA",
-        "country_code": "CA",
-        "description": "The Cymric is a placid, sweet cat. They do not get too upset about anything that happens in their world. They are loving companions and adore people. They are smart and dexterous, capable of using his paws to get into cabinets or to open doors.",
-        "life_span": "8 - 14",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cymric_-_Norwegian_forest_cat_presentation_show_Kotka_2009-02-01_IMG_0687.JPG/220px-Cymric_-_Norwegian_forest_cat_presentation_show_Kotka_2009-02-01_IMG_0687.JPG"
-      }
-    ]
-  }
+      "id": "crex",
+      "name": "Cornish Rex",
+      "temperament": "Affectionate, Intelligent, Active, Curious, Playful",
+      "origin": "United Kingdom",
+      "country_codes": "GB",
+      "country_code": "GB",
+      "description": "This is a confident cat who loves people and will follow them around, waiting for any opportunity to sit in a lap or give a kiss. He enjoys being handled, making it easy to take him to the veterinarian or train him for therapy work. The Cornish Rex stay in kitten mode most of their lives and well into their senior years. ",
+      "life_span": "11 - 14",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Rex_staredown.jpg/220px-Rex_staredown.jpg"
+    },
+    {
+      "weight": {
+        "imperial": "8 - 13",
+        "metric": "4 - 6"
+      },
+      "id": "cymr",
+      "name": "Cymric",
+      "temperament": "Gentle, Loyal, Intelligent, Playful",
+      "origin": "Canada",
+      "country_codes": "CA",
+      "country_code": "CA",
+      "description": "The Cymric is a placid, sweet cat. They do not get too upset about anything that happens in their world. They are loving companions and adore people. They are smart and dexterous, capable of using his paws to get into cabinets or to open doors.",
+      "life_span": "8 - 14",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cymric_-_Norwegian_forest_cat_presentation_show_Kotka_2009-02-01_IMG_0687.JPG/220px-Cymric_-_Norwegian_forest_cat_presentation_show_Kotka_2009-02-01_IMG_0687.JPG"
+    }
+  ]
+}
