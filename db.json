@@ -58,7 +58,8 @@
       "country_code": "US",
       "description": "Distinguished by truly unique ears that curl back in a graceful arc, offering an alert, perky, happily surprised expression, they cause people to break out into a big smile when viewing their first Curl. Curls are very people-oriented, faithful, affectionate soulmates, adjusting remarkably fast to other pets, children, and new situations.",
       "life_span": "12 - 16",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/ACL_Pointocurl_Fiorentina.jpg/1024px-ACL_Pointocurl_Fiorentina.jpg"
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/ACL_Pointocurl_Fiorentina.jpg/1024px-ACL_Pointocurl_Fiorentina.jpg",
+      "likes": null
     },
     {
       "weight": {
@@ -74,7 +75,7 @@
       "description": "The American Shorthair is known for its longevity, robust health, good looks, sweet personality, and amiability with children, dogs, and other pets.",
       "life_span": "15 - 17",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/14_years_old_american_shorthair.jpg/220px-14_years_old_american_shorthair.jpg",
-      "likes": 3
+      "likes": 4
     },
     {
       "weight": {
