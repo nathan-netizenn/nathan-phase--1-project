@@ -86,7 +86,7 @@ section{
 /*login form*/
 .header .login-form{
     position:absolute;
-    left: 115%;
+    left: 113%;
     right:-105%;
     background: var(--black);
     border-radius: .5rem;
