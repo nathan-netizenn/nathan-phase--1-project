@@ -4,13 +4,8 @@ nathan-phase--1-project
 Nathan Mageka   7 april 2023
 ## Project Description
 A cat website that contain different varieties of cats containing its details like tempremate and description as dispalyed in the live server.
+This will enable users to consult for different varieties of cats.
 ******
-
-## SCREENSHOTS
-- link 1
-- link 2
-
-
 ********
 ## SetUp Instruction
 ### Requirement
@@ -42,7 +37,7 @@ http://127.0.0.1:5500/index.html
 - Canvas
 - W3schools
 - Code academy
-- scrimbaS
+- scrimba
 *****
 ## Technologies Used
 1. db json
